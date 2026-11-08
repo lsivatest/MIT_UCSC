@@ -1,0 +1,9 @@
+
+#ignore F1.txt file
+F1.txt
+#ignore all .txt files
+*.txt
+#ignore all .class files
+*.class
+bin/
+lib/
